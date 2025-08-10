@@ -4,7 +4,6 @@ from typing import List, Dict, Any
 import streamlit as st
 import pandas as pd
 from PIL import Image
-import fitz  # PyMuPDF
 from pypdf import PdfReader
 from openai import OpenAI
 
